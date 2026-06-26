@@ -12,7 +12,7 @@
   "kv_namespaces": [
       {
         "id": "1680cc22031f4235aece03e0c8664da8"
-        "binding" : "KV"
+        "binding": "KV"
       }
   ],
   "d1_databases": [
