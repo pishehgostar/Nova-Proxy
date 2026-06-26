@@ -13,7 +13,7 @@
     {
       "binding": "DB",
       "database_name": "nova-proxy-db",
-      "database_id": "nova-proxy-db"
+      "database_id": "62edd8c3-55b4-4ec7-8418-5e04e7f9dbe5"
     }
   ],
   "vars": {
